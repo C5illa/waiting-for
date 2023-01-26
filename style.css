@@ -20,7 +20,7 @@ img {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 90px;
     place-items: center;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Chivo Mono', monospace;
     letter-spacing: -.2rem;
 }
 
