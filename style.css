@@ -21,6 +21,7 @@ img {
     grid-template-rows: 1fr 90px;
     place-items: center;
     font-family: 'Roboto Mono', monospace;
+    letter-spacing: -.2rem;
 }
 
 a:hover {
